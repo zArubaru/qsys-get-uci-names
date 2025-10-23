@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "type": "LuaModule",
+  "author": "alvar@arbus.fi",
+  "description": "Get UCI Names",
+  "requiredVersion" : "9.12.0"
+}
