@@ -5,6 +5,8 @@ This Lua module makes it possible to dynamically fetch the current UCI's name in
 The only requirement is, that the UCI has to have an (initially empty) `string UCI_Name` variable defined,
 which will be populated by this module.
 
+You can also find this repo in [Q-SYS Code Exchange](https://developers.qsc.com/s/exchange/developer-repo/a3YTO000002HTE92AO/get-uci-names).
+
 ## Example
 
 See the example file (`Get-UCI-Names-example.qsys`) for a full example!
